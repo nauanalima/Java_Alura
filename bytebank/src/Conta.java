@@ -1,0 +1,7 @@
+/*
+tipo Conta:
+	saldo
+	agencia
+	numero
+	titular
+*/
